@@ -68,7 +68,7 @@ namespace VeryBot
                 .Do(async (e) =>
                 {
                     await e.Channel.SendMessage("2017년 6월 8일 현재 [ 모집중 ]");
-           //       await e.Channel.SendMessage("2017년 월 일 현재 [ 모d집종료 ]");
+           //       await e.Channel.SendMessage("2017년 월 일 현재 [ 모집종료 ]");
                     await e.Channel.SendMessage("베리티비에서 고정멤버를 구하고 있어요!");
                     await e.Channel.SendMessage("나이제한 : 17살 이상");
                     await e.Channel.SendMessage("인원 : 4명 ~ 8명");
