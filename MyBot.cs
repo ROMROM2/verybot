@@ -119,7 +119,7 @@ namespace VeryBot
             commands.CreateCommand("업데이트").Do(async (e) =>
             {
                 await e.Channel.SendMessage("-----------------------------------------------------------");
-                await e.Channel.SendMessage("2017-06-06 : 베리TV 도우미 개발");
+                await e.Channel.SendMessage("2017-06-06 : 베리TV 도우미 개d발");
          //     await e.Channel.SendMessage("");
                 await e.Channel.SendMessage("-----------------------------------------------------------");
                 await e.Channel.SendMessage("");
