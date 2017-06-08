@@ -96,7 +96,7 @@ namespace VeryBot
 
             //      await discord.SetGame("try !help");
 
-            // 디스코드 봇 로그인명령어            
+            // 디스코드 봇 로그인토큰           - 이 부분은 실제 사용중인 봇 토큰이므로 실제사용할때에는 본인의 봇 토큰을 넣어주세요
             discord.ExecuteAndWait(async () =>
             {
                 await discord.Connect("MzIxMTg4NDIzMzc1MjU3NjAx.DBaZjQ.SqbIvWJV9gSVxsxvBR2TR71hNjQ", TokenType.Bot);
