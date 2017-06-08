@@ -76,37 +76,6 @@ namespace VeryBot
                     await e.Channel.SendMessage("자세한 사항은 링크를 참조해주세요");
                 });
 
-
-            /*
-            commands.CreateCommand("열혈목록")
-                .Do(async (e) =>
-                {
-                    await e.Channel.SendMessage("2017-06-06일 현재 열혈팬 목록입니다.");
-                    await e.Channel.SendMessage("---------------------------------------------------------------------");
-                    await e.Channel.SendMessage("회장 : 빅딜이Ω");
-                    await e.Channel.SendMessage("부회장 : 베리의프로");
-                    await e.Channel.SendMessage("3위 : 빡친대머리");
-                    await e.Channel.SendMessage("4위 : 베리의행복");
-                    await e.Channel.SendMessage("5위 : 주록");
-                    await e.Channel.SendMessage("6위 : 카리스마K");
-                    await e.Channel.SendMessage("7위 : 코난천사");
-                    await e.Channel.SendMessage("8위 : 베리의샤럴");
-                    await e.Channel.SendMessage("9위 : 개빡비와이");
-                    await e.Channel.SendMessage("10위 : 베리의강아지");
-                    await e.Channel.SendMessage("11위 : pota#");
-                    await e.Channel.SendMessage("12위 : 절편E");
-                    await e.Channel.SendMessage("13위 : -Zico-");
-                    await e.Channel.SendMessage("14위 : 쿤☆롬롬");
-                    await e.Channel.SendMessage("15위 : 오토임당");
-                    await e.Channel.SendMessage("16위 : ★탄고구마★");
-                    await e.Channel.SendMessage("17위 : 정이c");
-                    await e.Channel.SendMessage("18위 : 쥐돌이킥킥");
-                    await e.Channel.SendMessage("19위 : 한량자몽♡");
-                    await e.Channel.SendMessage("20위 : ♥또몽");
-                    await e.Channel.SendMessage("---------------------------------------------------------------------");
-                });
-                */
-
                    commands.CreateCommand("봇정보").Do(async (e) =>
                    {
                    await e.Channel.SendMessage("베리TV 도우미 봇 - 베리TV 디스코드방에 계신 분들을 위해 개발된 봇입니다.");
@@ -124,8 +93,6 @@ namespace VeryBot
                 await e.Channel.SendMessage("-----------------------------------------------------------");
                 await e.Channel.SendMessage("");
             });
-
-
 
             //      await discord.SetGame("try !help");
 
