@@ -1,0 +1,140 @@
+C:\Users\user\Desktop\VeryBot\VeryBot\obj\Debug\VeryBot.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\VeryBot.exe.config
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\VeryBot.exe
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\VeryBot.pdb
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Discord.Net.Commands.dll
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Discord.Net.dll
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.Authentication.dll
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Nito.AsyncEx.dll
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\RestSharp.dll
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\WebSocket4Net.dll
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.Authentication.xml
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.Authentication.OAuth.xml
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Nito.AsyncEx.xml
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Nito.AsyncEx.Concurrent.xml
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\RestSharp.xml
+C:\Users\user\Desktop\VeryBot\VeryBot\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\user\Desktop\VeryBot\VeryBot\obj\Debug\VeryBot.exe
+C:\Users\user\Desktop\VeryBot\VeryBot\obj\Debug\VeryBot.pdb
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\VeryBot.exe.config
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\VeryBot.exe
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\VeryBot.pdb
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Discord.Net.Commands.dll
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Discord.Net.dll
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.Authentication.dll
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.Http.dll
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.Extensions.Options.dll
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.Net.Http.Headers.dll
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.Threading.Tasks.dll
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Newtonsoft.Json.dll
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Nito.AsyncEx.Concurrent.dll
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Nito.AsyncEx.dll
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\RestSharp.dll
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\System.Buffers.dll
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\System.Text.Encodings.Web.dll
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\WebSocket4Net.dll
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.Authentication.xml
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.Authentication.OAuth.xml
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.Http.xml
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.Extensions.Options.xml
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.Net.Http.Headers.xml
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.Threading.Tasks.xml
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Newtonsoft.Json.xml
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Nito.AsyncEx.xml
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Nito.AsyncEx.Concurrent.xml
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\RestSharp.xml
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\bin\Debug\System.Text.Encodings.Web.xml
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\obj\Debug\VeryBot.csprojResolveAssemblyReference.cache
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\obj\Debug\VeryBot.exe
+E:\프로그램\디스코드 봇\VeryBot\VeryBot\obj\Debug\VeryBot.pdb
