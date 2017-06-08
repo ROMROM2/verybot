@@ -81,7 +81,7 @@ namespace VeryBot
                    await e.Channel.SendMessage("베리TV 도우미 봇 - 베리TV 디스코드방에 계신 분들을 위해 개발된 봇입니다.");
                    await e.Channel.SendMessage("개발언어 : Visual C#");
                    await e.Channel.SendMessage("최종버전 : Ver.2017-06-08 / 봇 업데이트 내역보기 : @업데이트");
-                   await e.Channel.SendMessage("문의처 [    Discord(디스코드) : ROMROM#0588    ]");
+                   await e.Channel.SendMessage("문의     [    Discord(디스코드) : ROMROM#0588    ]");
                    });
 
             
