@@ -96,7 +96,12 @@ namespace VeryBot
 
             //      await discord.SetGame("try !help");
 
-
+            // 디스코드 봇 로그인명령어            
+            discord.ExecuteAndWait(async () =>
+            {
+                await discord.Connect("MzIxMTg4NDIzMzc1MjU3NjAx.DBaZjQ.SqbIvWJV9gSVxsxvBR2TR71hNjQ", TokenType.Bot);
+            });
+        }
 
         private void Log(object sender, LogMessageEventArgs e)
         {
